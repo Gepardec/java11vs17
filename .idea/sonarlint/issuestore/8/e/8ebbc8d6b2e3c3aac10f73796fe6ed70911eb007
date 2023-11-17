@@ -1,0 +1,20 @@
+
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Grape 1 is " 3 times.(å…îŒøÿÿÿÿ8µ®ö¥1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8»®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8»®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å…îŒøÿÿÿÿ8¼®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó±ÊËşÿÿÿÿ8¼®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÖÍÿÿÿÿÿ8¼®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ÿ‹¿şÿÿÿÿ8¼®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å…îŒøÿÿÿÿ8½®ö¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó±ÊËşÿÿÿÿ8¾®ö¥1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ŸÖÍÿÿÿÿÿ8¿®ö¥1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¢Ÿ‹¿şÿÿÿÿ8À®ö¥1
+Z
+java:S18541"=Remove this useless assignment to local variable "grapeNull".(¦óƒÏ8À®ö¥1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¦ŒÃ¥8À®ö¥1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(—ö°äøÿÿÿÿ8Á®ö¥1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(å…îŒøÿÿÿÿ8Ã®ö¥1
+K
+java:S14811".Remove this unused "grapeNull" local variable.(¦óƒÏ8Ã®ö¥1

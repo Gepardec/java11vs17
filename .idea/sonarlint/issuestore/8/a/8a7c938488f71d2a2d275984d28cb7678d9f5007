@@ -1,0 +1,24 @@
+
+r
+java:S1192"PDefine a constant instead of duplicating this literal "Undefined fruit" 4 times.(Ûªè­øÿÿÿÿ8ıºé¥1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Common fruit" 4 times.(‰´†›ıÿÿÿÿ8şºé¥1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Exotic fruit" 4 times.(’şŠÆùÿÿÿÿ8şºé¥1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú·8şºé¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8†»é¥1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8†»é¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡»é¥1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(åÿûáıÿÿÿÿ8‡»é¥1
+g	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Ş½Ö$8‡»é¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰´†›ıÿÿÿÿ8‡»é¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’şŠÆùÿÿÿÿ8ˆ»é¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ûªè­øÿÿÿÿ8ˆ»é¥1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‰´†›ıÿÿÿÿ8ˆ»é¥1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(’şŠÆùÿÿÿÿ8ˆ»é¥1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Ûªè­øÿÿÿÿ8‰»é¥1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ãˆì§øÿÿÿÿ8‰»é¥1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÜÉ—8‰»é¥1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(İİĞ£ùÿÿÿÿ8‰»é¥1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ï£¥8Š»é¥1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(”“î€8Š»é¥1
